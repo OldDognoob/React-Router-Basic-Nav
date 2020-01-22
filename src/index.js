@@ -11,3 +11,11 @@ ReactDOM.render(
 	 </Router>,
     document.getElementById('root')
 );    
+
+// import Home from './components/Home';
+// import About from './components/About';
+// import Contact from './components/Contact';
+// import Navigation from './components/Navigation';
+
+// export { Home, About, Contact, Navigation };
+
